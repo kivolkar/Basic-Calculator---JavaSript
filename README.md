@@ -2,4 +2,4 @@
 
 ## Screenshot
 
-![App Screenshot](Images/Calculator_Screenshot.png)
+# ![App Screenshot](Images/Calculator_Screenshot.png)
